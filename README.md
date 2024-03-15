@@ -1,5 +1,5 @@
 # DL
-Deep Learning || Neural Network
+Deep Learning || Neural Network // By: Duarte Patrão and Mariana Pires
 
 The provided code addresses a machine learning problem using a variant of Neural Network models implemented in TensorFlow/Keras, akin to exercises conducted during classes. Specifically, the project aims to alleviate the burden on healthcare professionals by automating the identification of malaria-infected cells through image analysis.
 
