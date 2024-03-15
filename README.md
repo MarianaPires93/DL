@@ -24,10 +24,10 @@ Quicker and more accurate diagnosis of malaria can lead to better patient outcom
 
 # Examples:
 Furthermore, in this code, the number of epochs used is 10. Below, we showcase a good example of 10 epochs vs 20 epochs.
-  - 10 epotchs
+  - 10 epochs
 ![accurary training](https://github.com/MarianaPires93/DL/assets/154060433/820fcc63-8ba1-4079-9cc6-fc7c4a80c978)
 
-  - 20 epotchs
+  - 20 epochs
 ![accuracy gone wrong](https://github.com/MarianaPires93/DL/assets/154060433/c2a28b9f-129e-4de1-9cd2-b33388171e5a)
 
 It is clear that with 20 epochs, overfitting starts to occur. To prevent further issues, it is advisable to run the code with 10 epochs for a better accuracy model.
